@@ -1,0 +1,12 @@
+Bug Fixes
+1.  Capability of importing multiple files at the same time. (through file chooser)
+2.  Fix the coloring of the lines.  Sometimes it will all have the same colors. (High priority) (legend displays correct color, not drawn correctly)
+3.  Be capable of importing files from the two types of network analyzers that we have.  I will send some samples. (new file structure)
+4.  When opening the software, errors come up if the software cannot find the files. (delete not found files, no need notification)
+
+New Features
+1. Vertical benchmark line on graph (w/ y value displayed on bottom of graph)
+2. Export screenshot of graph w/ labels as bitmap
+
+Goals
+1. Distribute as consumer software
