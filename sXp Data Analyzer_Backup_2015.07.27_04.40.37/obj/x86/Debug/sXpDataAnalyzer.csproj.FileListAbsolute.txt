@@ -1,4 +1,0 @@
-C:\Users\thow\Desktop\Current Work\sXp Data Analyzer\sXp Data Analyzer\obj\x86\Debug\sXp_Data_Analyzer.MainForm.resources
-C:\Users\thow\Desktop\Current Work\sXp Data Analyzer\sXp Data Analyzer\obj\x86\Debug\sXp_Data_Analyzer.Properties.Resources.resources
-C:\Users\thow\Desktop\Current Work\sXp Data Analyzer\sXp Data Analyzer\obj\x86\Debug\sXpDataAnalyzer.csproj.GenerateResource.Cache
-C:\Users\thow\Desktop\Current Work\sXp Data Analyzer\sXp Data Analyzer\obj\x86\Debug\sXp_Data_Analyzer.exe.licenses
