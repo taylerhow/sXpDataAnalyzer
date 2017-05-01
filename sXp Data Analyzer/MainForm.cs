@@ -153,6 +153,7 @@ namespace sXp_Data_Analyzer
                             newFile.configureLineSeries();
                         }
                     }
+
                     this._plotAllFiles();
 
                     //configure settings

@@ -29,3 +29,28 @@ C:\Users\Tayler How\Desktop\sXp Data Analyzer\sXp Data Analyzer\obj\x86\Debug\sX
 C:\Users\Tayler How\Desktop\sXp Data Analyzer\sXp Data Analyzer\obj\x86\Debug\sXp_Data_Analyzer.exe.licenses
 C:\Users\Tayler How\Desktop\sXp Data Analyzer\sXp Data Analyzer\bin\Debug\sXp_Data_Analyzer.exe.CodeAnalysisLog.xml
 C:\Users\Tayler How\Desktop\sXp Data Analyzer\sXp Data Analyzer\bin\Debug\sXp_Data_Analyzer.exe.lastcodeanalysissucceeded
+C:\Users\Tayler How\Documents\GitHub\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\sXp_Data_Analyzer.exe.config
+C:\Users\Tayler How\Documents\GitHub\sXpDataAnalyzer\sXp Data Analyzer\obj\x86\Debug\sXp_Data_Analyzer.exe
+C:\Users\Tayler How\Documents\GitHub\sXpDataAnalyzer\sXp Data Analyzer\obj\x86\Debug\sXp_Data_Analyzer.pdb
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\sXp_Data_Analyzer.exe.config
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\obj\x86\Debug\sXp_Data_Analyzer.exe
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\obj\x86\Debug\sXp_Data_Analyzer.pdb
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\sXp_Data_Analyzer.exe
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\sXp_Data_Analyzer.pdb
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\Telerik.WinControls.dll
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\TelerikCommon.dll
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\TelerikData.dll
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\Telerik.WinControls.xml
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\bin\Debug\TelerikData.xml
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\obj\x86\Debug\sXpDataAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\obj\x86\Debug\sXp_Data_Analyzer.MainForm.resources
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\obj\x86\Debug\sXp_Data_Analyzer.Properties.Resources.resources
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\obj\x86\Debug\sXpDataAnalyzer.csproj.GenerateResource.Cache
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\sXp Data Analyzer\obj\x86\Debug\sXp_Data_Analyzer.exe.licenses
