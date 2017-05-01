@@ -1158,7 +1158,7 @@ namespace sXp_Data_Analyzer
         {
             try
             {
-                using (StreamWriter writer = new StreamWriter("config.txt", false))
+                using (StreamWriter writer = new StreamWriter("../../../resources/config.txt", false))
                 {
                     //write file configurations
                     foreach (sXpFile file in this.files)

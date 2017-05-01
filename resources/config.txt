@@ -1,17 +1,23 @@
-\\megatron\Commons\00Roeder\Circulator Characteristics\Star Microwave\33pF 800R Series.s2p
-0,0,0,0,0,0,0,0,
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\resources\rfout to rfin-1.s2p
+1,0,0,1,1,0,0,1,
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\resources\rfout to rfin-2.s2p
+1,0,0,0,0,0,0,0,
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\resources\rfout to rfin-3.s2p
+0,0,0,0,0,0,0,1,
+C:\Users\Tayler How\Documents\Git\sXpDataAnalyzer\resources\rfout to rfin-4.s2p
+0,0,0,0,0,0,0,1,
 -----SETTINGS-----
-999999999
--999999999
-999999999
--999999999
+900
+1276
+-179.9893
+179.918
 False
-
-False
-
-False
-
-False
+110
+True
+1040
+True
+1060
+True
 sXp Data Analyzation Test
 Frequency (MHz)
 Reading
