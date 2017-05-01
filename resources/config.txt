@@ -1,0 +1,17 @@
+\\megatron\Commons\00Roeder\Circulator Characteristics\Star Microwave\33pF 800R Series.s2p
+0,0,0,0,0,0,0,0,
+-----SETTINGS-----
+999999999
+-999999999
+999999999
+-999999999
+False
+
+False
+
+False
+
+False
+sXp Data Analyzation Test
+Frequency (MHz)
+Reading

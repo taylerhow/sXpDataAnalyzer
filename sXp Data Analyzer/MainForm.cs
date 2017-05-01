@@ -95,7 +95,7 @@ namespace sXp_Data_Analyzer
             this.radLabelChartTitle.Location = new Point((this.radChartView1.Location.X + (this.radChartView1.Size.Width / 2) - (this.radLabelChartTitle.Size.Width/2)), this.radLabelChartTitle.Location.Y);
 
             //configure persistence settings/files
-            this._initializeConfiguration("config.txt");
+            this._initializeConfiguration("../../../resources/config.txt");
             this._reconfigureGraph();
         }
 
